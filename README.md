@@ -1,8 +1,5 @@
 # FeaaAutomationSolution
- 
-# ACAutomationCourse 
- ACAutomationCourse 
- 
+
 ### **Session 1**
 
 We have discussed about automation:
